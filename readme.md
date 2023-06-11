@@ -1,18 +1,3 @@
-# This is an <h1> Tag
-## THis is an <h2> tag
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arypte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-*This text will be itatlic*
-
-**Hellow
-
-~~Markdown~~ Check
-~~seoultech~~
-
-:smile:
-:car: ?
-
-
-* Item 1
-* Item 2
-	* Item 2a
-	* Item 2b
+![arypte's GitHub stats](https://github-readme-stats.vercel.app/api?username=arypte&show_icons=true&theme=gruvbox)
